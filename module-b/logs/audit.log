@@ -1,0 +1,5 @@
+{"timestamp":"2026-03-22T11:03:24.566Z","action":"DELETE","table":"member","recordId":14,"performedBy":1,"details":null}
+{"timestamp":"2026-03-22T11:03:44.877Z","action":"UPDATE","table":"member","recordId":15,"performedBy":1,"details":{"name":"Divya L Kapoor","email":"divya.kapoor@student.edu","contactNumber":"9123456790","age":21,"gender":"Female","address":"12, Model Town, Ludhiana","profileImage":"","userType":"Student"}}
+{"timestamp":"2026-03-22T11:03:48.100Z","action":"DELETE","table":"member","recordId":15,"performedBy":1,"details":null}
+{"timestamp":"2026-03-22T11:04:04.069Z","action":"INSERT","table":"member","recordId":26,"performedBy":1,"details":{"name":"test","email":"test@gmail.com"}}
+{"timestamp":"2026-03-22T11:04:08.282Z","action":"DELETE","table":"member","recordId":26,"performedBy":1,"details":null}
